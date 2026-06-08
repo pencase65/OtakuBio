@@ -1,0 +1,2 @@
+# OtakuBio
+オタクのbioを管理
