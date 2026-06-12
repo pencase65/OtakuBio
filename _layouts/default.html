@@ -2,13 +2,8 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <main class="content-wrapper">
-        {{ content }}
-    </main>
+    {{ content }}
 </body>
-</html>
