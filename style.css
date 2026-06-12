@@ -2,7 +2,7 @@
 body {
     background-color: #121212; /* 目に優しいダークグレー */
     color: #e0e0e0;           /* 眩しくないライトグレー */
-    font-family: -apple-system, BlinkMacSystemFont, "Meiryo UI", "BIZ UD Gothic", Roboto, Helvetica, Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "BIZ UD Gothic", "Meiryo UI", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
