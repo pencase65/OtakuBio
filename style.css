@@ -2,7 +2,7 @@
 body {
     background-color: #121212; /* 目に優しいダークグレー */
     color: #e0e0e0;           /* 眩しくないライトグレー */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Meiryo UI", "BIZ UD Gothic", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
 
 /* 読みやすいように中央寄せで幅を制限 */
 .content-wrapper {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 2rem 1.5rem;
 }
